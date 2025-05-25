@@ -196,9 +196,17 @@ Mods: {
 		Logout: Выйти
 		Register: Регист.
 		Password: Пароль
-		Username: Имя Пользователя
+		Username:
+		'''
+		Имя
+		пользователя
+		'''
 		RememberPassword: Запомнить пароль
-		SaveLogin: Сохранить логин
+		SaveLogin:
+		'''
+		Сохранить
+		логин
+		'''
 		SaveLoginNone: Нет
 		SaveLoginDefault: По умолч.
 		SaveLoginPlayer: Игрок
@@ -231,8 +239,8 @@ Mods: {
 		YouAreNowAdmin: Теперь вы администратор
 		AdminInstructionsCommandDescription: Информирует вас о том, как стать администратором в HERO's моде
 		DedicatedServerAutoMessage: HERO's Mod: Создайте аккаунт, войдите в него и введите /auth {0}, чтобы стать администратором.
-		YouDoNotHavePermissionToBuildHere: У вас нет прав на строительство здесь
-		YouDoNotHavePermissionToSpawnBosses: У вас нет разрешения на призыв боссов
+		YouDoNotHavePermissionToBuildHere: У вас нет прав на строительство здесь.
+		YouDoNotHavePermissionToSpawnBosses: У вас нет разрешения на призыв боссов.
 		LightHackDisabled: Глобальное освещение: отключено
 		LightHack25%: Глобальное освещение: 25%
 		LightHack50%: Глобальное освещение: 50%
@@ -245,31 +253,31 @@ Mods: {
 		SuccessfullyRegistered: Вы успешно зарегестрировались. Пожалуйста, войдите в ваш аккаунт.
 		GroupAlreadyExists: Группа с таким названием уже существует. Пожалуйста, введите другое название.
 		CantDeleteDefaultGroup: Вы не можете удалить группу, установленную по умолчанию.
-		LoginInstructions: Нажмите на кнопку «Вход» на панели HERO's мода, что бы войти или зарегестрироваться
-		TimeChangedNoonBy: Игрок {0} изменил время на полдень
-		TimeChangedMidnightBy: Игрок {0} изменил время на полночь
-		TimeChangedNightBy: Игрок {0} изменил время на ночь
-		TimePausedBy: Игрок {0} остановил течение времени
-		TimeResumedBy: Игрок {0} возобновил течение времени
-		ItemsClearedBy: Игрок {0} удалил предметы, лежащие на земле
-		EnemySpawnsEnabledBy: Игрок {0} включил появление существ
-		EnemySpawnsDisabledBy: Игрок {0} отключил появление существ
-		RainTurnedOnBy: Игрок {0} включил дождь
-		RainTurnedOffBy: Игрок {0} отключил дождь
-		SandstormTurnedOnBy: Игрок {0} включил песчаную бурю
-		SandstormTurnedOffBy: Игрок {0} отключил песчаную бурю
-		ForcedEnchangedSundialBy: Игрок {0} принудительно активировал Зачарованные солнечные часы
+		LoginInstructions: Нажмите на кнопку «Вход» на панели HERO's мода, что бы войти или зарегестрироваться.
+		TimeChangedNoonBy: Игрок {0} изменил время на полдень.
+		TimeChangedMidnightBy: Игрок {0} изменил время на полночь.
+		TimeChangedNightBy: Игрок {0} изменил время на ночь.
+		TimePausedBy: Игрок {0} остановил течение времени.
+		TimeResumedBy: Игрок {0} возобновил течение времени.
+		ItemsClearedBy: Игрок {0} удалил предметы, лежащие на земле.
+		EnemySpawnsEnabledBy: Игрок {0} включил появление существ.
+		EnemySpawnsDisabledBy: Игрок {0} отключил появление существ.
+		RainTurnedOnBy: Игрок {0} включил дождь.
+		RainTurnedOffBy: Игрок {0} отключил дождь.
+		SandstormTurnedOnBy: Игрок {0} включил песчаную бурю.
+		SandstormTurnedOffBy: Игрок {0} отключил песчаную бурю.
+		ForcedEnchangedSundialBy: Игрок {0} принудительно активировал Зачарованные солнечные часы.
 		WaypointAlreadyExists: Точка телепортации с таким названием уже существует. Пожалуйста, введите другое название.
-		RegionCreatedBy: Игрок {1} создал группу «{0}»
-		SpawnPointSetToBy: Игрок {2} установил точку возрождения по координатам X:{0} Y:{1}
-		GravestonesEnabledBy: Игрок {0} включил надгробия
-		GravestonesDisabledBy: Игрок {0} отключил надгробия
-		TileLastModifiedBy: Блок последний раз был изменён игроком {0}
+		RegionCreatedBy: Игрок {1} создал группу «{0}».
+		SpawnPointSetToBy: Игрок {2} установил точку возрождения по координатам X:{0} Y:{1}.
+		GravestonesEnabledBy: Игрок {0} включил надгробия.
+		GravestonesDisabledBy: Игрок {0} отключил надгробия.
+		TileLastModifiedBy: Блок последний раз был изменён игроком {0}.
 		TileNotModified: Этот блок не был изменен с момента последнего запуска сервера.
 		YouDontHavePermissionToDoThat: У вас нет прав для осуществления этого действия.
-		EventsStoppedBy: Игрок {0} отключил все события
-		DestructiveExplosivesBannedBy: Игрок {0} отключил разрушительные взрывы
-		DestructiveExplosivesUnbannedBy: Игрок {0} включил разрушительные взрывы
+		EventsStoppedBy: Игрок {0} отключил все события.
+		DestructiveExplosivesBannedBy: Игрок {0} отключил разрушительные взрывы.
+		DestructiveExplosivesUnbannedBy: Игрок {0} включил разрушительные взрывы.
 		RejectAnyServerConfigEdits: У вас нет разрешения в HERO's моде на редактирование конфигурации сервера.
 
 		PermissionInfo: {
